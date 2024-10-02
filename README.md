@@ -15,6 +15,7 @@ IMPORT ANS EXPORT,DATA GENERATION,SQL TOOLS.
 
 ### Tools Used
 ---
+
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. for Data Cleaning
   2. for Analysis
@@ -48,3 +49,6 @@ EDA involved the exploring of the Data to answer some questions about Data such 
   WHERE CONDITION = TRUE
   ```
 
+### Data Visualization 
+
+![IMG_1675](https://github.com/user-attachments/assets/8d97952e-21ec-4aa6-8218-8f88226e4e43)
