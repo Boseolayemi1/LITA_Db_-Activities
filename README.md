@@ -2,6 +2,20 @@
 
 ### Project Title:Excel Functions And SQL Queries
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources) 
+
+[Tools Used](#tools-used) 
+
+[Data Cleaning and Preparation](#data-cleaning)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization) 
+
 ### Project Overview
 ---
 This data analysis project aims to generate insight on how excel function is being used and how the functions has been of
