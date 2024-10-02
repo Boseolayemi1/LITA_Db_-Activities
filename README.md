@@ -9,3 +9,12 @@ the use of shortcuts.
 
 ### Data Sources
 The primary datas used here are VLOOKUP,SUMIFS,COUNTIFS,SUM ETC.
+
+### Tools Used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. for Data Cleaning
+  2. for Analysis
+  3. for Visualization
+     
+- SQL - Structured Query Language for Querying of Data
+- GitHub for Portfolio Building
