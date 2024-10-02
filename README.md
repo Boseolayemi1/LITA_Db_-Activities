@@ -52,3 +52,16 @@ EDA involved the exploring of the Data to answer some questions about Data such 
 ### Data Visualization 
 
 ![IMG_1675](https://github.com/user-attachments/assets/8d97952e-21ec-4aa6-8218-8f88226e4e43)
+
+![IMG_1674](https://github.com/user-attachments/assets/4d349507-11d5-46c5-b7af-f24aef0c1cdb)
+
+🥇
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
+
+
+
